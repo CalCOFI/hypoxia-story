@@ -20,7 +20,7 @@ The html output is rendered by running the parallax R document. This script pars
 
 •Widgets: html widgets to include interactive graphs in parallax document 
 
-#References 
+# References 
 Breitburg, Denise, et al. “The Ocean Is Losing Its Breath: Declining Oxygen in the World's Ocean and Coastal Waters; Summary for Policy Makers.” 2018, https://unesdoc.unesco.org/ark:/48223/pf0000265196.
 
 “California Current Region.” California Current Region | National Marine Ecosystem Status, https://ecowatch.noaa.gov/regions/california-current.
@@ -40,6 +40,6 @@ Ren, Alice S., et al. “A Sixteen-Year Decline in Dissolved Oxygen in the Centr
 University of California Television. “Research for Resilience on a Changing Planet - The California Cooperative Oceanic Fisheries Investigations.” UCTV, University of California Television, https://www.uctv.tv/shows/Research-for-Resilience-on-a-Changing-Planet-The-California-Cooperative-Oceanic-Fisheries-Investigations-37033.
 
 
-#Credits
+# Credits
 This project was created by data storytelling interns with CalCOFI and California Sea Grant, Mallika Gupta and Annie Adams
 
