@@ -1,4 +1,5 @@
-## How is Oxygen Changing in the California Current? 
+##  A scrollytelling primer on hypoxia
+
 This hyopxia primer informs readers on California Current Excosystem and it's changing oxygen levels over the past 71 years. This project was created to inform community members about a prevelant issues in a compelling and interactive way. To achieve this, we utilized the parallaxr package in R to generate a scrolling document that utilzies both images and text. We used parallax in R as it was a very user friendly way to create a scrolling document, and one that did not require html background knowledge. One challenge of the parallax package in R is that it requires one side of each page to be an image, and the other to be text. We found ourselves wanting to implement text on both sides on some pages, but were unable to do this. 
 
 # Execution Instructions
