@@ -11,7 +11,7 @@ The bottle database contains oceanographic data - including temperature, salinit
 
 The graphs above utilized data from the upper 300 meters of samples, collected from the core transect lines (76.7 to 93.3), at on shelf stations (stations numbers &#x2264; 60).
 
-The code for this project can be found here. [will add link] 
+The code for this project can be found <a href="https://github.com/aradams11/calcofi.github.io" style="color: #28527A; text-decoration: underline;">here.</a>
 
 Graphics drawn by Mallika Gupta. Adapted from references below.
 
@@ -25,7 +25,7 @@ Graphics drawn by Mallika Gupta. Adapted from references below.
 
 <font size="-1">Limburg, Karin E., et al. "Ocean Deoxygenation: A Primer." One Earth, vol. 2, no. 1, 2020, pp. 24-29., https://doi.org/10.1016/j.oneear.2020.01.001. </font>
 
-<font size="-1">"Midwestern Regional Climate Center." MRCC, https://mrcc.purdue.edu/mw_climate/elNino/climatology.jsp#:~:text=the%20definition%20of%20a%20strong,%2D83%20and%201997%2D98. </font>
+<font size="-1">"Midwestern Regional Climate Center." MRCC, </font> <font size="-2">https://mrcc.purdue.edu/mw_climate/elNino/climatology.jsp#:~:text=the%20definition%20of%20a%20strong,%2D83%20and%201997%2D98. </font>
 
 <font size="-1">Nam, SungHyun, et al. "Amplification of Hypoxic and Acidic Events by La Ni&#241;a Conditions on the Continental Shelf off California." AGU Publications - Wiley Online Library , https://agupubs.onlinelibrary.wiley.com/. </font>
 

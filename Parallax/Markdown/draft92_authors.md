@@ -27,7 +27,7 @@ imgurl: "images/Meet_the_Authors.png"
 
 <font size="+1"><span style="color:#28527A">Trevor Ruiz &#x2022; Visiting professor at the UCSB Department of Statistics and Applied Probability</span></font>
 
-Thank you to our reviewers, Alice Ren and ___, for your feedback!
+Thank you to Alice Ren for reviewing our work and offering feedback!
 
 
 
