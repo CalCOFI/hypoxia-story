@@ -2,6 +2,8 @@
 position: right
 imgurl: "images/Title_Graphic.png"
 ---
+*This webpage is best viewed on desktop with a full screen browser.*
+
 <br />
 <br />
 <br />
