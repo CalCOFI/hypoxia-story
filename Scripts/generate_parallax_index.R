@@ -1,7 +1,9 @@
-library(parallaxr)
+librarian::shelf(
+  here,
+  martinctc/parallaxr)
 
 ## Character vector of all MD files
-all_md_str <- list.files(path = "Parallax/Markdown", full.names = TRUE)
+all_md_str <- list.files(path = "markdown", full.names = TRUE)
 
 
 ## Loop through each MD file, parse, and return a single tibble
@@ -11,5 +13,6 @@ md_tibble <-
 
 ## Output HTML file
 
-generate_scroll_doc(path = "Parallax/parallaxr-draft-output.html",
-                    inputs = md_tibble)
+generate_scroll_doc(
+  path = here("index.html"),
+  inputs = md_tibble)

@@ -9,9 +9,9 @@ The html output is rendered by running the parallax R file. This script parses t
 
 •bottle.Rdata : CalCOFI dataset used to create interactive graphs
 
-•Parallax > Markdown: Individual markdown files 
+•Parallax > markdown: Individual markdown files 
 
-•Parallax> Images: Png files of each image that is sourced in the markdown file
+•Parallax> images: Png files of each image that is sourced in the markdown file
 
 •Parallax_draft_script.R : Script to generate parallax document
 
