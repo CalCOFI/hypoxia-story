@@ -4,6 +4,16 @@ imgurl: "images/Title_Graphic.png"
 ---
 *This webpage is best viewed on desktop with a full screen browser.*
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0HVK8TDMCF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0HVK8TDMCF');
+</script>
+
 <br />
 <br />
 <br />
